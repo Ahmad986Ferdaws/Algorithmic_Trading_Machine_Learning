@@ -2,6 +2,7 @@
 
 * Project 1 - Unsupervised Learning Trading Strategy, it shoudl be something very unique that i can actually make some chnage through that, for example if i wanted to do 
 * Project 2 - Twitter Sentiment Trading Strategy
+* and the second most important thing is 
 * Project 3 - Intraday GARCH Trading Strategy
 
 # If you are interested in connecting with me or my research:
