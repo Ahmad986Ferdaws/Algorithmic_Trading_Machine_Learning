@@ -1,6 +1,6 @@
 # Algorithmic_Trading_Machine_Learning
 
-* Project 1 - Unsupervised Learning Trading Strategy, it shoudl be something very unique that i can actually make chnagthroughat, for example if i wanted to do 
+* Project 1 - Unsupervised Learning Trading Strategy, it shoudl be something very unique tcan actually make chnagthroughat, for example if i wanted to do 
 * Project 2 - Twitter Sentiment Trading Strategy
 * and the second most important thing is 
 * Project 3 - Intraday GARCH Trading Strategy
